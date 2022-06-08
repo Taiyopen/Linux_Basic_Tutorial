@@ -33,12 +33,18 @@ ssh 使用者名稱@ip (-p port)
 ```bash
 ssh ical@140.127.205.179 -p 30901
 ```
+
+![](/04-ssh/1.png)
+
 如果輸入成功，你可能會得到以下訊息
 ```bash
 The authenticity of host '[140.127.205.179]:30901 ([140.127.205.179]:30901)' cant be established.
 ECDSA key fingerprint is SHA256:Qsz6fWY58Jz8Sjleeit/Ie59JWI3pZVv8lGdlCVsGWk.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
+
+![](/04-ssh/3.png) 
+
 * 簡單來說
 
 伺服器發給了你一張通行證，你如果想要安全的連線近來，之後就要用這張通行證，你是否要拿呢?(好啊/不要哩/我想要有個性一點的通行證)
@@ -59,9 +65,12 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?yes
 ```bash
 ical@140.127.205.179's password:
 ```
+![](/04-ssh/2.png)
 
 這裡輸入'你要連的電腦'密碼
 
 實驗室的電腦密碼大多為ical406
 
 最後，終端機的使用者名稱有變化，就代表成功啦!
+
+![](/04-ssh/4.png)
