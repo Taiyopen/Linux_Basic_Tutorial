@@ -9,9 +9,9 @@
 
 Chapter 1 : [Linux terminal基本指令](./01-Linux-terminal.md)
 
-Chapter 2 : [apt基本操作](./apt.md)
+Chapter 2 : [apt基本操作](./02-apt.md)
 
-Chapter 3 : [vim & tmux](./vim.md)
+Chapter 3 : [vim & tmux](./03-vim.md)
 
 Chapter 4 : [gcc編譯](./04-gcc.md)
 
