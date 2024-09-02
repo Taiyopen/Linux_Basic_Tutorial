@@ -1,4 +1,4 @@
-# ICAL基礎教學
+# Linux基礎教學
 這些都是Linux系統很基礎的操作
 
 正式進入實驗室後會一直不斷地使用這些東西，藉由操作yolo-label讓大家整合今天學到的東西
@@ -23,4 +23,4 @@ Chapter 6 : [sftp](./06-sftp.md)
 
 Bouns 1 : [yolo_label](./label.md)
 
-承澤學長的教學 : [zefungi/Tutorial](https://github.com/zefungi/Tutorial/)
+承澤學長的教學講義 : [zefungi/Tutorial](https://github.com/zefungi/Tutorial/)
