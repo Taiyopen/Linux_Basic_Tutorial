@@ -7,7 +7,7 @@ sudo apt install vim
 ```
 
 ## 使用教學
-用vim打開檔案
+用vim打開或建立檔案
 ```bash
 vim [檔案]
 ```
